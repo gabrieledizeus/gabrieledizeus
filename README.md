@@ -1,16 +1,41 @@
-## Hi there 👋
+Olá! Eu sou o Gabriel Edizeus 👋
 
-<!--
-**gabrieledizeus/gabrieledizeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub! Aqui compartilho meus projetos, estudos e experimentos na área de tecnologia.
 
-Here are some ideas to get you started:
+Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Estudante de Análise e Desenvolvimento de Sistemas
+
+💻 Desenvolvedor Web e entusiasta de tecnologia
+
+✨ Experiência com WordPress, Elementor e Piotnet Addons
+
+🏆 Atuei no desenvolvimento de mais de 50 páginas no site da Protege Seguros
+
+👨‍💻 Experiência prática em gestão de tráfego pago e automação de fluxos no Blip
+
+💪 Buscando sempre aprender e aprimorar meus conhecimentos
+
+🌟 Tecnologias e Ferramentas
+
+Front-end: HTML, CSS, JavaScript, Elementor
+
+Back-end: PHP, Python, Ruby (aprendendo)
+
+Banco de Dados: MySQL
+
+Outros: Git, WordPress, APIs REST, Google Ads, Blip
+
+🌟 Projetos em Destaque
+
+Protege Seguros - Desenvolvimento e gestão do site
+
+Chatbot para Atendimento - Automação de fluxo no Blip
+
+API de Consulta de CNPJ - Mini programa em Python para consultas via API (minhareceita.org)
+
+👥 Vamos Conectar?
+
+LinkedIn: https://www.linkedin.com/in/gabriel-edizeus
+
+Email: gabrieledizeus@gmail.com
