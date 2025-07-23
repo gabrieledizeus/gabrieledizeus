@@ -20,7 +20,7 @@ Sobre mim
 
 Front-end: HTML, CSS, JavaScript, Elementor
 
-Back-end: PHP, Python, Ruby (aprendendo)
+Back-end: PHP, Python, JAVA
 
 Banco de Dados: MySQL
 
@@ -34,7 +34,9 @@ Chatbot para Atendimento - Automação de fluxo no Blip
 
 API de Consulta de CNPJ - Mini programa em Python para consultas via API (minhareceita.org)
 
-👥 Vamos Conectar?
+API de Consulta CEP - Feito em java utilizando via API (viacep.com.br)
+
+-------------------------------------------------------------------------------------
 
 LinkedIn: https://www.linkedin.com/in/gabriel-edizeus
 
