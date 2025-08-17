@@ -4,7 +4,6 @@ Bem-vindo ao meu perfil do GitHub! Aqui compartilho meus projetos, estudos e exp
 
 Sobre mim
 
-💼 Estudante de Análise e Desenvolvimento de Sistemas
 
 💻 Desenvolvedor Web e entusiasta de tecnologia
 
