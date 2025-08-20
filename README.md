@@ -33,6 +33,8 @@ Chatbot para Atendimento - Automação de fluxo no Blip
 
 API de Consulta de CNPJ - Mini programa em Python para consultas via API (minhareceita.org)
 
+Challengs Alura - 4 Challengs alura referentes a projeto Java
+
 API de Consulta CEP - Feito em java utilizando via API (viacep.com.br)
 
 -------------------------------------------------------------------------------------
