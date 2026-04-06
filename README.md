@@ -1,4 +1,4 @@
-Olá! Eu sou o Gabriel Edizeus 👋
+Olá! Eu sou o Gabriel Edizeus.
 Bem-vindo ao meu perfil do GitHub! Aqui compartilho meus projetos, soluções em código e minha evolução constante na área de engenharia de software, com foco principal no desenvolvimento Back-end.
 
 
