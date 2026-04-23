@@ -13,9 +13,13 @@ Certificado em Oracle Cloud Infrastructure (OCI)
 🛠️ Tecnologias
 
 Back-end: Java, Spring Boot, APIs REST
+
 Front-end: React, Next.js, TypeScript
-Banco de Dados: MySQL, PostgreSQL (em aprendizado)
-Ferramentas: Git, Docker (em aprendizado)
+
+Banco de Dados: MySQL, PostgreSQL
+
+Ferramentas: Git, Docker
+
 Cloud: Oracle Cloud Infrastructure
 
 🔥 Projetos em Destaque
