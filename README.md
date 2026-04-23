@@ -1,41 +1,52 @@
-Olá! Eu sou o Gabriel Edizeus.
-Bem-vindo ao meu perfil do GitHub! Aqui compartilho meus projetos, soluções em código e minha evolução constante na área de engenharia de software, com foco principal no desenvolvimento Back-end.
+Desenvolvedor Java (Spring Boot) com experiência em construção de APIs REST, integrações de sistemas e automação de processos em ambiente real de produção.
 
+Tenho foco em desenvolvimento de aplicações escaláveis e atualmente também atuo na evolução para Fullstack, utilizando React/Next.js.
 
-- Desenvolvedor Back-end com foco na construção de aplicações robustas e escaláveis.
+🚀 Sobre mim
+Experiência prática com Java + Spring Boot em produção
+Desenvolvimento de APIs utilizadas por sistemas internos e automações
+Criação de chatbot integrado ao WhatsApp com +7.000 usuários
+Otimizações técnicas que geraram +60% de aumento em leads
+Certificado em Oracle Cloud Infrastructure (OCI)
+🛠️ Tecnologias
 
-- Certificado em Oracle Cloud Infrastructure (OCI), buscando sempre aliar código a boas práticas de infraestrutura.
+Back-end: Java, Spring Boot, APIs REST
+Front-end: React, Next.js, TypeScript
+Banco de Dados: MySQL, PostgreSQL (em aprendizado)
+Ferramentas: Git, Docker (em aprendizado)
+Cloud: Oracle Cloud Infrastructure
 
-- Experiência prática na construção de APIs REST, integração de sistemas e automação de fluxos.
+🔥 Projetos em Destaque
 
-- Desenvolvi soluções de automação (chatbots via Blip) e otimizações de SEO que contribuíram diretamente para um aumento de 60% na geração de leads na Protege Seguros.
+🔌 API de Consulta de CEP
 
-Sou Formado em Análise e Desenvolvimento de Sistemas (Universidade Santa Cecília).
+API desenvolvida em Java + Spring Boot para leitura de arquivos CSV e integração com ViaCEP.
 
-Tecnologias e Ferramentas
-Back-end: Java, Spring Boot, Python
+Tecnologias: Java, Spring Boot, REST
 
-Front-end: Next.js, TypeScript, HTML, CSS
+👉 Ver projeto
 
-Certificação: Oracle OCI
+🤖 Chatbot de Atendimento Automatizado
 
-Banco de Dados: MySQL
+Sistema de automação via Blip integrado ao WhatsApp, atendendo mais de 7.000 usuários.
 
-Outros: Git, APIs REST, Automação, Chatbots (Blip), Cloud (OCI), SEO, WordPress
+Destaques:
 
-🌟 Projetos em Destaque
-🔌 [API de Consulta CEP] - Sistema em Java para leitura de arquivos CSV e integração com a API ViaCEP para retorno e tratamento de dados de endereço.
+Automação de fluxos de vendas
+Integração com sistemas internos
+Escalabilidade de atendimento
+🌐 Plataforma Protege Seguros
 
-🤖 [Chatbot de Atendimento Automatizado] - Criação de fluxos de automação no Blip para escalar o atendimento de vendas e suporte de mais de 7.000 clientes.
+Atuação no desenvolvimento e otimização de um ecossistema com mais de 50 páginas.
 
-🌐 [Ecossistema Protege Seguros] - Desenvolvimento, manutenção e otimização de performance técnica e SEO de uma rede com mais de 50 páginas ativas para conversão de leads.
+Resultados:
 
-📊 [Consulta de CNPJ automatizada] - Mini programa desenvolvido em Python para consumo e integração via API (minhareceita.org).
++60% geração de leads
+Melhorias de performance e SEO
+📊 Integração com API de CNPJ
 
-☕ [Desafios Java - Alura] - Projetos práticos focados em Orientação a Objetos, boas práticas, Lambdas e Streams no ecossistema Java.
+Aplicação em Python para consumo de API externa e tratamento de dados empresariais.
 
--------------------------------------------------------------------------------------
-
-LinkedIn: https://www.linkedin.com/in/gabriel-edizeus
-
-Email: gabrieledizeus@gmail.com
+📫 Contato
+💼 LinkedIn: https://www.linkedin.com/in/gabriel-edizeus
+📧 Email: gabrieledizeus@gmail.com
