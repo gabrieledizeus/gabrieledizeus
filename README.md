@@ -1,3 +1,5 @@
+Gabriel Edizeus Nazario Jacarandá
+
 Desenvolvedor Java (Spring Boot) com experiência em construção de APIs REST, integrações de sistemas e automação de processos em ambiente real de produção.
 
 Tenho foco em desenvolvimento de aplicações escaláveis e atualmente também atuo na evolução para Fullstack, utilizando React/Next.js.
@@ -49,4 +51,5 @@ Aplicação em Python para consumo de API externa e tratamento de dados empresar
 
 📫 Contato
 💼 LinkedIn: https://www.linkedin.com/in/gabriel-edizeus
+
 📧 Email: gabrieledizeus@gmail.com
